@@ -34,6 +34,9 @@ May available in future
 * [Report a problem](https://forms.gle/XWtiSXUCZ5usRqX46)
 * [Feedback](https://forms.gle/3iRjdM6mWCJmWNWA9)
 
+## Data Usage
+It uses user ip & cpu info for for analysis purpose.
+
 ## Credit
 
 Deveped by [Salman](https://salman.pro/).
