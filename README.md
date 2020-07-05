@@ -1,4 +1,5 @@
 # CodeLand
+![Downloads](https://img.shields.io/github/downloads/SalmanTechnologies/CodeLand/total.svg)
 
 CodeLand is a C & C++ IDE developed by [Salman](https://salman.pro/). Beta version of Codeland is available now.
 
@@ -40,8 +41,6 @@ It uses user ip & cpu info for analysis purpose.
 ## Credit
 
 Deveped by [Salman](https://salman.pro/).
-
-Copyright © 2020 [Salman Technologies](https://salman.pro/), All rights reserved.
 
 
 
