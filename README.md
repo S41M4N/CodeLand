@@ -23,7 +23,7 @@ It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler. It is n
 
 You can easily update Codeland from update menu when a new releae is available.
 
-Codeland require [Microsoft Visual C++ 2015-2019](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Make sure you have already installed. Otherwise it you may face some launching issue.
+Codeland require [Microsoft Visual C++ 2015-2019](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Make sure you have already installed it. Otherwise you may face some launching issue.
 
 ### Linux & macOS
 May available in future
