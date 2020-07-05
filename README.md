@@ -35,7 +35,7 @@ May available in future
 * [Feedback](https://forms.gle/3iRjdM6mWCJmWNWA9)
 
 ## Data Usage
-It uses user ip & cpu info for for analysis purpose.
+It uses user ip & cpu info for analysis purpose.
 
 ## Credit
 
