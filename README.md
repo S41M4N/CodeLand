@@ -1,4 +1,5 @@
 # CodeLand
+[![GitHub Release](https://img.shields.io/github/release/SalmanTechnologies/CodeLand.svg?style=flat-square)](https://github.com/SalmanTechnologies/CodeLand/releases)
 ![Downloads](https://img.shields.io/github/downloads/SalmanTechnologies/CodeLand/total.svg)
 
 CodeLand is a C & C++ IDE developed by [Salman](https://salman.pro/). Beta version of Codeland is available now.
