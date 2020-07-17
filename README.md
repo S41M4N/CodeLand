@@ -57,7 +57,7 @@ To open .c or .cpp file in a folder run the following command
     codeland file.cpp
     or,
     codeland file1.cpp file2.cpp fileN.cpp
-    or 
+    or,
     codeland *.cpp
 ```
 ### macOS
