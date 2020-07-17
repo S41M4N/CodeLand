@@ -26,11 +26,45 @@ You can easily update Codeland from update menu when a new releae is available.
 
 Codeland require [Microsoft Visual C++ 2015-2019](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Make sure you have already installed it. Otherwise you may face some launching issue.
 
-### Linux & macOS
-May available in future
+### Linux
+CodeLand is only available for 64-bit Linux systems.
+
+Download the [Codeland_Linux_v0.0.1-beta_amd64.deb](https://github.com/SalmanTechnologies/CodeLand/releases/download/0.0.1-beta/CodeLand_Linux_v0.0.1-beta_amd64.deb) package from [here](https://github.com/SalmanTechnologies/CodeLand/releases/download/0.0.1-beta/CodeLand_Linux_v0.0.1-beta_amd64.deb).
+
+You can also download the package by following command.
+
+```bash
+    wget https://github.com/SalmanTechnologies/CodeLand/releases/download/0.0.1-beta/CodeLand_Linux_v0.0.1-beta_amd64.deb
+```
+
+After downloading the package run the following command.
+
+```bash
+    sudo dpkg -i CodeLand_Linux_v0.0.1-beta_amd64.deb
+```
+
+If installer show missing dependencies error run the following command to install.
+
+```bash
+    sudo apt --fix-broken install
+```
+
+To run Codeland open it from Applications List or run ```codeland``` in terminal.
+
+To open .c or .cpp file in a folder run the following command
+
+```bash
+    codeland file.cpp
+    or,
+    codeland file1.cpp file2.cpp fileN.cpp
+    or 
+    codeland *.cpp
+```
+### macOS
+Might be available in future.
 
 ## Support
-
+* [LinkedIn](https://www.linkedin.com/in/salmankha/)
 * [Email](mailto://code.salman.cs@gmail.com)
 * [Facebook](https://facebook.com/connect2salman)
 * [Report a problem](https://forms.gle/XWtiSXUCZ5usRqX46)
