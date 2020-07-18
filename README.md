@@ -22,7 +22,7 @@ It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler. It is n
 ### Windows
 [Download](https://github.com/SalmanTechnologies/CodeLand/releases/latest) the latest [CodeLand Windows Installer](https://github.com/SalmanTechnologies/CodeLand/releases/latest). `CodeLand-x86-v0.0.1-beta.msi` is 32-bit. For 64-bit systems, download `CodeLand-x64-v0.0.1-beta.msi`.
 
-You can easily update Codeland from update menu when a new releae is available.
+You can easily update Codeland from update menu when a new release is available.
 
 Codeland require [Microsoft Visual C++ 2015-2019](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Make sure you have already installed it. Otherwise you may face some launching issue.
 
