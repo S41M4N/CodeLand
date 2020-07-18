@@ -4,7 +4,7 @@
 
 CodeLand is a C & C++ IDE developed by [Salman](https://salman.pro/). Beta version of Codeland is available now.
 
-It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler. It is now available for Windows platform.
+It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler for Windows platform. It is now available for Windows & Linux platform.
 
 
 ![Screenshoot](https://raw.githubusercontent.com/SalmanTechnologies/CodeLand/master/Codeland.jpg)
@@ -22,7 +22,7 @@ It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler. It is n
 ### Windows
 [Download](https://github.com/SalmanTechnologies/CodeLand/releases/latest) the latest [CodeLand Windows Installer](https://github.com/SalmanTechnologies/CodeLand/releases/latest). `CodeLand-x86-v0.0.1-beta.msi` is 32-bit. For 64-bit systems, download `CodeLand-x64-v0.0.1-beta.msi`.
 
-You can easily update Codeland from update menu when a new releae is available.
+You can easily update Codeland from update menu when a new release is available.
 
 Codeland require [Microsoft Visual C++ 2015-2019](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Make sure you have already installed it. Otherwise you may face some launching issue.
 
@@ -56,9 +56,9 @@ To open .c or .cpp file in a folder run the following command
 ```bash
     codeland file.cpp
     or,
-    codeland file1.cpp file2.cpp fileN.cpp
+    codeland file1.cpp file2.c fileN.cpp
     or,
-    codeland *.cpp
+    codeland *.*
 ```
 ### macOS
 Might be available in future.
