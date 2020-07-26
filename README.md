@@ -20,7 +20,7 @@ It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler for Wind
 
 ## Installing
 ### Windows
-[Download](https://github.com/SalmanTechnologies/CodeLand/releases/latest) the latest [CodeLand Windows Installer](https://github.com/SalmanTechnologies/CodeLand/releases/latest). `CodeLand-x86-v0.0.1-beta.msi` is 32-bit. For 64-bit systems, download `CodeLand-x64-v0.0.1-beta.msi`.
+[Download](https://github.com/SalmanTechnologies/CodeLand/releases/latest) the latest [CodeLand Windows Installer](https://github.com/SalmanTechnologies/CodeLand/releases/latest). `CodeLand-x86-v0.0.2-beta.msi` is 32-bit. For 64-bit systems, download `CodeLand-x64-v0.0.2-beta.msi`.
 
 You can easily update Codeland from update menu when a new release is available.
 
