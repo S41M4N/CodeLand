@@ -77,6 +77,10 @@ It uses user ip & cpu info for analysis purpose.
 
 Deveped by [Salman](https://salman.pro/).
 
+## Donate
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/webapps/shoppingcart?flowlogging_id=b162622bd887c&mfid=1596834035309_b162622bd887c)
+
 
 
 
