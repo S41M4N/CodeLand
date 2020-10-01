@@ -4,7 +4,7 @@
 
 CodeLand is a C & C++ IDE developed by [Salman](https://salman.pro/). Beta version of Codeland is available now.
 
-It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler for Windows platform. It is now available for Windows & Linux platform.
+It has built in latest [GCC 10.2](https://gcc.gnu.org/gcc-10/) compiler for Windows platform. It is now available for Windows & Linux platform.
 
 
 ![Screenshoot](https://raw.githubusercontent.com/SalmanTechnologies/CodeLand/master/Codeland.jpg)
@@ -12,6 +12,8 @@ It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler for Wind
 ## Features
 * *Lightweight*
 * *Built-in compiler*
+* *Debugger*
+* *Quick Judge Tool for competitive programmer*
 * *Syntax Highlighting*
 * *Code autocomplete*
 * *Code snippets*
@@ -20,7 +22,7 @@ It has built in latest [GCC 10.1](https://gcc.gnu.org/gcc-10/) compiler for Wind
 
 ## Installing
 ### Windows
-[Download](https://github.com/SalmanTechnologies/CodeLand/releases/latest) the latest [CodeLand Windows Installer](https://github.com/SalmanTechnologies/CodeLand/releases/latest). `CodeLand-x86-v0.0.2-beta.msi` is 32-bit. For 64-bit systems, download `CodeLand-x64-v0.0.2-beta.msi`.
+[Download](https://github.com/SalmanTechnologies/CodeLand/releases/latest) the latest [CodeLand Windows Installer](https://github.com/SalmanTechnologies/CodeLand/releases/latest). `CodeLand-x86-v0.0.3-beta.msi` is 32-bit. For 64-bit systems, download `CodeLand-x64-v0.0.3-beta.msi`.
 
 You can easily update Codeland from update menu when a new release is available.
 
@@ -77,9 +79,9 @@ It uses user ip & cpu info for analysis purpose.
 
 Deveped by [Salman](https://salman.pro/).
 
-## Donate
+#### [Buy me a coffee](https://www.buymeacoffee.com/salmank)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/webapps/shoppingcart?flowlogging_id=b162622bd887c&mfid=1596834035309_b162622bd887c)
+
 
 
 
