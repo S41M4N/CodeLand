@@ -72,7 +72,7 @@ Might be available in future.
 * [Report a problem](https://forms.gle/XWtiSXUCZ5usRqX46)
 * [Feedback](https://forms.gle/3iRjdM6mWCJmWNWA9)
 
-## Data Usage
+## Data Use Policy
 It uses user ip & cpu info for analysis purpose.
 
 ## Credit
