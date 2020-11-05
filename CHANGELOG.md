@@ -1,3 +1,12 @@
+### v0.0.4-beta (Nov 5, 2020)
+- Dark and Light mode
+- Settings
+- Editor Themes
+- Compiler options
+- Custom Snippets
+- Faster startup
+- Bug fixed
+
 ### v0.0.3-beta (Sep 2, 2020)
 - Debugger
 - Quick Judge
