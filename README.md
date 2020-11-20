@@ -5,7 +5,9 @@
 
 CodeLand is a C & C++ IDE developed by [Salman](https://salman.pro/). Beta version of Codeland is available now.
 
-It has built in latest [GCC 10.2](https://gcc.gnu.org/gcc-10/) compiler for Windows platform. It is now available for Windows & Linux platform.
+It has built in latest [GCC 10.2](https://gcc.gnu.org/gcc-10/) compiler for Windows platform. It is now available for Windows, Mac & Linux platform.
+
+It uses system GCC or Clang compiler on Mac & Linux.
 
 #### Windows
 ![Screenshoot](https://github.com/S41M4N/CodeLand/raw/master/Codeland.jpg)
