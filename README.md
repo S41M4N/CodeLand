@@ -1,13 +1,18 @@
 # CodeLand
 [![GitHub Release](https://img.shields.io/github/release/SalmanTechnologies/CodeLand.svg?style=flat-square)](https://github.com/SalmanTechnologies/CodeLand/releases)
 ![Downloads](https://img.shields.io/github/downloads/SalmanTechnologies/CodeLand/total.svg)
+![Platform](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-brightgreen)
 
 CodeLand is a C & C++ IDE developed by [Salman](https://salman.pro/). Beta version of Codeland is available now.
 
 It has built in latest [GCC 10.2](https://gcc.gnu.org/gcc-10/) compiler for Windows platform. It is now available for Windows & Linux platform.
 
-
-![Screenshoot](https://raw.githubusercontent.com/SalmanTechnologies/CodeLand/master/Codeland.jpg)
+#### Windows
+![Screenshoot](https://github.com/S41M4N/CodeLand/raw/master/Codeland.jpg)
+#### Mac OS
+![Screenshoot](https://github.com/S41M4N/CodeLand/raw/master/mac-screenshot.png)
+### Linux
+![Screenshoot](https://github.com/S41M4N/CodeLand/raw/master/linux-screenshot.jpg)
 
 ## Features
 * *Lightweight*
@@ -63,7 +68,9 @@ To open .c or .cpp file in a folder run the following command
     codeland *.*
 ```
 ### macOS
-Might be available in future.
+Download the [CodeLand-mac-v0.0.4-beta.zip](https://github.com/S41M4N/CodeLand/releases/download/v0.0.4-beta/CodeLand-mac-v0.0.4-beta.zip) from [here](https://github.com/S41M4N/CodeLand/releases/download/v0.0.4-beta/CodeLand-mac-v0.0.4-beta.zip).
+
+After downloading unzip and mount `CodeLand-mac-v0.0.4-beta.dmg`. Then move CodeLand to Application folder.
 
 ## Support
 * [LinkedIn](https://www.linkedin.com/in/salmankha/)
